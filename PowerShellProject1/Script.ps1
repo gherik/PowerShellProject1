@@ -4,3 +4,4 @@
 
 Get-Date
 
+Get-Module -ListAvailable
